@@ -4,13 +4,19 @@ This repository contains the experiments made to analyze and complete assignment
 course from the Georgia Institute of Technology.
 
 The main purpose of this assignment is to analyze 4 randomized optimizations algorithms:
-* Decision Trees
-* Neural Networks
-* K-Nearest Neighbors
-* Boosting (using Decision Trees)
-* Support Vector Machines
+* Randomized Hill Climbing
+* Simulated Annealing
+* Genetic Algorithm
+* Mutual-Information-Maximum Input Clustering (MIMIC)
 
-with 3 optimization problems (as well as training a neural network) using `mlrose-hiive` and compare/contrast their performance.
+with 3 optimization problems:
+* One Max
+* Flip Flop
+* Knapsack
+* 
+as well as finding weights for a neural network using RO algorithms to replace back propagation from gradient descent.
+
+We use the `mlrose-hiive` module to execute these experiments.
 
 ----
 
