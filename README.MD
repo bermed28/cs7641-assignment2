@@ -13,6 +13,7 @@ with 3 optimization problems:
 * One Max
 * Flip Flop
 * Knapsack
+
 as well as finding weights for a neural network using RO algorithms to replace back propagation from gradient descent.
 
 We use the `mlrose-hiive` module to execute these experiments.
