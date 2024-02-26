@@ -12,7 +12,7 @@ The main purpose of this assignment is to analyze 4 randomized optimizations alg
 with 3 optimization problems:
 * One Max
 * Flip Flop
-* Knapsac
+* Knapsack
 as well as finding weights for a neural network using RO algorithms to replace back propagation from gradient descent.
 
 We use the `mlrose-hiive` module to execute these experiments.
