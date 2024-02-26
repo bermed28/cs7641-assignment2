@@ -34,6 +34,13 @@ $ source venv/bin/activate
 $ pip install -r requirements.txt
 ```
 
+#### mlrose-hiive
+If `mlrose-hiive` does not install automatically with the `requirements.txt`, then run
+```shell
+$ cd mlrose
+$ pip install -e .
+```
+
 ### Run Scripts
 
 #### Optimization Problems using Randomized Optimization Algorithms
