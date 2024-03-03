@@ -59,7 +59,7 @@ This is due to the number of experiments we do on each problem (~180 per problem
 
 #### Finding Optimal Weights to train a Neural Network using Randomized Optimization Algorithms
 
-Open up `nueral_network_weight_optimization.ipynb` in VS Code (or your preferred editor/jupyter server), select your virtual environment (in this example `myenv`) as your kernel and run the code cells one by one. 
+Open up `neural_network_weight_optimization.ipynb` in VS Code (or your preferred editor/jupyter server), select your virtual environment (in this example `myenv`) as your kernel and run the code cells one by one. 
 
 Note that the problems may take a long time to finish computing sometimes (~20 mins max) depending on hardware specs.
 
